@@ -1,7 +1,7 @@
 {
   "id": "raichu-unlock",
   "name": "Raichu Unlock (Yellow)",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "api": 2,
   "entry": "main.lua",
   "profile": "content",

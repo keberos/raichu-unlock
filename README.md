@@ -106,17 +106,20 @@ Both read live — no restart needed.
 
 ## Install
 
-Launcher → MODS → Import mod .zip → pick `raichu-unlock-0.1.0.zip`.
+Launcher → MODS → Import mod .zip → pick `raichu-unlock-1.0.0.zip`.
 
 ## How to check it works
 
 Get two THUNDER STONEs (Celadon Department Store, 4F). Use one on your
 Pikachu outside of battle — vanilla plays its cry and prints "PIKACHU is
 refusing!"; modded, you get the evolution movie into Raichu. Use the second
-on the resulting Raichu — you should get the (backwards-worded) movie back
-to Pikachu, and the walking Pikachu follower should reappear on the next
-map you enter.
+on the resulting Raichu — you get the (backwards-worded) movie back to
+Pikachu, and the walking Pikachu follower reappears on the next map you
+enter.
 
 ## Status
 
-**0.1.0, untested.** Built and reasoned against the engine source; not run.
+**1.0.0, verified in-game.** Evolve and revert both confirmed working, and
+after reverting the mon behaves as an ordinary party Pikachu — the follower,
+Pikachu's Beach, and normal interactions all pick back up cleanly, not just
+the species field.
