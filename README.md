@@ -1,7 +1,12 @@
-# Raichu Unlock
+# Raichu Unlock (Yellow)
 
 Lets your starter **PIKACHU** evolve into **RAICHU** with a **THUNDER STONE**
-in Pokémon Yellow — and lets a second Thunder Stone turn it back.
+in **Pokémon Yellow** — and lets a second Thunder Stone turn it back.
+
+Yellow-only: it patches the OT-identity refusal that only exists in Yellow's
+`item_effects.asm`. Red/Blue never had that refusal — a stone already evolves
+Pikachu there without this mod, and installing it in Red/Blue just never
+matches (see [How it works](#why-this-is-needed)).
 
 ## Why this is needed
 
