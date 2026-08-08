@@ -1,0 +1,19 @@
+{
+  "id": "raichu-unlock",
+  "name": "Raichu Unlock",
+  "version": "0.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "MECHANIC",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "github": "keberos/raichu-unlock",
+  "priority": 100,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Lets your starter PIKACHU evolve into RAICHU with a THUNDER STONE in Pokemon Yellow, and back again the same way. Vanilla Yellow checks the OT on the mon you point the stone at and refuses if it is the Pikachu Oak gave you, and no wild Pikachu or Raichu exists anywhere in the game, so Raichu is otherwise unobtainable without a link trade. A second Thunder Stone on the Raichu reverts it to Pikachu (stats/HP recalculated correctly either way), which also brings back the walking Pikachu follower and Pikachu's Beach. Two independent toggles, ALLOW EVOLUTION and ALLOW REVERT. Everything else about the stone stays vanilla: still refused in battle, still consumed only on success, non-cancelable movie, normal level-up move check."
+}
